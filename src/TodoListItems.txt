@@ -1,0 +1,5 @@
+skosić trawę		25-06-2019
+zrobić coś dzisiaj	coś ważnego	26-06-2019
+zrobić coś jutro	co miałbym zrobić dziś	27-06-2019
+zrobić coś pojutrze		28-06-2019
+zaktualizować aplikację TodoList	Wyrzucić plik tekstowy TodoListItems.txt i zrobić współpracę z bazą danych todoList.db	02-07-2019
